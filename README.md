@@ -32,3 +32,5 @@ Like many business problems, the data we'll explore is contained in several diff
 7. Joining everything for further analysis
 8. Counting categories by continent
 9. Filtering counts by continent and category
+
+
