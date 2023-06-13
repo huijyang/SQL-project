@@ -24,10 +24,11 @@ Like many business problems, the data we'll explore is contained in several diff
 
 ### Project Tasks
 1. The oldest businesses in the world
-2. The oldest businesses in North America
-3. THe oldest business on each continent
-4. Unknown oldest businesses
-5. Adding new oldest business data
-6. The oldest industries
-7. Restarurant representation
-8. Categries and continents
+2. How many businesses were founded before 1000?
+3. Which businesses were founded before 1000?
+4. Exploring the categories
+5. Counting the categories
+6. Oldest business by continent
+7. Joining everything for further analysis
+8. Counting categories by continent
+9. Filtering counts by continent and category
